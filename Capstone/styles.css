@@ -1,0 +1,45 @@
+.flex1 {
+display: flex;
+max-width: 50%;
+margin-left: auto;
+margin-right: auto;
+
+background-color: blue;
+color: white ;
+font-size: 20;
+border: solid darkblue ;
+}
+
+.navbar {
+        text-align: center; 
+        border-bottom: 1px solid #ccc;
+        background-color: navy 
+      }
+      
+      .navbar li {
+        display: inline-block; 
+        margin-right: 20px; 
+      }
+      
+      .navbar li:last-child {
+        margin-right: 0; 
+      }
+      
+      .navbar a {
+        text-decoration: none; 
+        color: white; 
+        font-weight: bold; 
+      }
+      
+      .navbar a:hover {
+        color: #007bff; 
+      }
+
+.h1 {
+background-color: orange;
+color: bold black;
+align-content: center;
+text-align: center;
+
+
+}
